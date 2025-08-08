@@ -9,7 +9,7 @@
 
 <h3 align="left">Profiles :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mithran-m-b20a802a0/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mithran-m-b20a802a0/" height="30" width="30" /></a>
+<a href="linkedin.com/in/mithran-m-b20a802a0" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mithran-m-b20a802a0/" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/mithran_student/https://leetcode.com/u/mithran_student/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mithran_student/https://leetcode.com/u/mithran_student/" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mithran7741" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mithran7741" height="30" width="40" /></a>
 </p>
