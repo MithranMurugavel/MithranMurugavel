@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I'm  Mithran pursuing a Computer Science Stream.
 - 👩‍💻 I like to do DSA Problem Solving and ....
-- 📖 Currently learning on **Reack.js, Node.js, TypeScript and MongoDB**.
+- 📖 Currently learning on **React.js, Node.js, TypeScript and MongoDB**.
 - 🔑 Passionate about learning new Technologies and curious to explore new challenges, and I like collaborating with other developers and sharing ideas.
 <hr/>
 <img align="right" alt="coding" width="300" src="https://github.com/MithranMurugavel/MithranMurugavel/blob/main/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
